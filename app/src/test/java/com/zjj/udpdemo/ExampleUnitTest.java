@@ -1,4 +1,4 @@
-package com.maxvision.udpdemo;
+package com.zjj.udpdemo;
 
 import org.junit.Test;
 

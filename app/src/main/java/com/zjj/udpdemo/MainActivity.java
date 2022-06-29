@@ -1,4 +1,4 @@
-package com.maxvision.udpdemo;
+package com.zjj.udpdemo;
 
 import androidx.appcompat.app.AppCompatActivity;
 
